@@ -1,8 +1,8 @@
 # Hello there 👋 I'm Grzegorz
 
-- 3rd year computer science student
+- 4th year Computer Science student (pursuing a Master's degree, with a completed Bachelor's degree)
 - Jagiellonian University 🏫
-- currently learning C# (Blazor ❤️)
+- sunset and book lover
 
 ## Languages and technologies
 <div>
@@ -17,7 +17,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" height=40 width=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" height=40 width=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="haskell" alt="haskell" height=40 width=40 />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/erlang/erlang-plain-wordmark.svg" title="erlang" alt="erlang" height=40 width=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" height=40 width=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" height=40 width=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" height=40 width=40 />
